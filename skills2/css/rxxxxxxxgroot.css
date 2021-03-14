@@ -1,0 +1,19 @@
+/*groot scherm*/
+
+body {
+    background-color: #ccc;
+    color: #000;
+    background: rgb(0, 168, 255);
+    background: linear-gradient(90deg, rgba(0, 168, 255, 1) 39%, rgba(14, 108, 164, 1) 68%);
+}
+
+div {
+    max-width: 850px;
+    margin: auto;
+    background-color: #fff;
+    padding: 25px;
+}
+figure {
+    width: 640px;
+    margin: 20px auto;
+}
